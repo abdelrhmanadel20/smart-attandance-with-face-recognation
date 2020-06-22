@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>img/icons8-back-100-copy-2.png</file>
+    <file>school-classroom-education-teaching-generic_1522248589150_38592036_ver1.0-1.jpg</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>cla-classroom-students-01-m.jpg</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>img/doctor_office-wallpaper-1366x768.jpg</file>
+    <file>class-time1.jpg</file>
+    <file>download.jpg</file>
+  </qresource>
+</RCC>
